@@ -35,4 +35,10 @@ This is a link to [my portfolio](https://github.com/fish1219705).
 
 ![My Icon](Icon.png)
 
-<img src="Icon.png" width="200">
+<img src="Icon.png" width="200"> <!--HTML works in Markdown -->
+
+## Code
+
+We can put inline code by using a tic.
+
+To add an image use an `<img>` tag.
