@@ -30,3 +30,9 @@ This is an unordered list:
 ## Links
 
 This is a link to [my portfolio](https://github.com/fish1219705).
+
+## Images
+
+![My Icon](Icon.png)
+
+<img src="Icon.png" width="200">
