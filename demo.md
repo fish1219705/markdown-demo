@@ -55,5 +55,10 @@ function test(){
 | Language   | Rating |
 | ---------- | ------ |
 | HTML       | 5      |
-| JS         | 7      |
+| JavaScript | 7      |
 | CSS        | 9      |
+
+## Github Flavour
+
+> Note
+> This is a note!
