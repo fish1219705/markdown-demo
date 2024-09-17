@@ -60,5 +60,5 @@ function test(){
 
 ## Github Flavour
 
-> Note
+> [!Note]  <!--add two spaces to become two diff lines-->
 > This is a note!
