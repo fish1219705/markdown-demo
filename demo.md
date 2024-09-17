@@ -26,7 +26,6 @@ This is an unordered list:
 - Item Number Two
 - Item Number Three
 
-
 ## Links
 
 This is a link to [my portfolio](https://github.com/fish1219705).
@@ -42,3 +41,11 @@ This is a link to [my portfolio](https://github.com/fish1219705).
 We can put inline code by using a tic.
 
 To add an image use an `<img>` tag.
+
+You can add multi-line code by using three tics and the name of the coding language:
+
+```
+function test(){
+    console.log("test");
+}
+```
